@@ -1,6 +1,8 @@
 import React from 'react'
 import './Portfolio.css';
 import IMG1 from '../../assets/project1.jpg';
+import IMG2 from '../../assets/project2.png';
+import IMG3 from '../../assets/project3.png';
 
 const data = [
   {
@@ -12,17 +14,17 @@ const data = [
   },
   {
     id: 2,
-    image: IMG1,
-    title: 'Weather app',
-    github:'https://github.com/pk042priyanshu-001/weather',
-    demo: 'https://weatherpriyanshu.netlify.app/'
+    image: IMG3,
+    title: 'Delivery App',
+    github:'https://github.com/pk042priyanshu-001/Delivery-app',
+    demo: '404'
   },
   {
     id: 3,
-    image: IMG1,
-    title: 'Weather app',
-    github:'https://github.com/pk042priyanshu-001/weather',
-    demo: 'https://weatherpriyanshu.netlify.app/'
+    image: IMG2,
+    title: 'Portfolio Website',
+    github:'https://github.com/pk042priyanshu-001/protfolio-website',
+    demo: 'https://pk042priyanshu-portfolio.netlify.app'
   }
 ];
 

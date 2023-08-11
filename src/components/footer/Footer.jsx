@@ -10,10 +10,10 @@ const Footer = () => {
       <a href="#home" className='footer__logo'>Pritiar</a>
 
       <ul className="permalinks">
-        <li><a href="#home">Home</a></li> |
-        <li><a href="#about">About</a></li> |
-        <li><a href="#experionce">Experience</a></li> |
-        <li><a href="#portfolio">Protfolio</a></li> |
+        <li><a href="#home">Home</a></li> 
+        <li><a href="#about">About</a></li> 
+        <li><a href="#experionce">Experience</a></li> 
+        <li><a href="#portfolio">Protfolio</a></li> 
         <li><a href="#contact">Contact</a></li>
       </ul>
 
